@@ -7,6 +7,8 @@ In order to control a rover, NASA sends a simple string of letters. The possible
 ```bash
 # Clone this project
 git clone https://github.com/emrecavdar94/mars-rover.git
+# go to inside of app
+cd mars-rover
 # Install all dependencies
 go get ./...
 ```
